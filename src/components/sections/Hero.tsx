@@ -1,5 +1,5 @@
 import { motion } from 'framer-motion';
-import { ArrowRight, Package, Clock, ShieldCheck } from 'lucide-react';
+import { ArrowRight, Clock, ShieldCheck } from 'lucide-react';
 
 export default function Hero() {
   const containerVariants = {
