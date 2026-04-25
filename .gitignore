@@ -145,6 +145,9 @@ desktop.ini
 dist/
 dist-ssr/
 *.local
+vite.config.js
+vite.config.d.ts
+*.tsbuildinfo
 
 # Temporary files
 temp.txt
